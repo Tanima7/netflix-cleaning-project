@@ -1,0 +1,12 @@
+# Netflix Data Cleaning Task
+
+## What I did:
+- Loaded and cleaned Netflix dataset using Python Pandas.
+- Handled missing values and duplicates.
+- Standardized column names and date formats.
+- Saved cleaned dataset for further analysis.
+
+## How to run:
+- Run cleaning_script.py with Python 3.
+- Cleaned CSV file will be generated.
+
